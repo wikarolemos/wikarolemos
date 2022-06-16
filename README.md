@@ -2,7 +2,7 @@
 
 ### Sobre mim:
 
-- 🏫 Cursando Análise e Desenvolvimento de Sistemas pela FATEC Sorocaba
+- ✍️ Cursando Análise e Desenvolvimento de Sistemas pela FATEC Sorocaba
 - 📖 Estudando front-end e back-end
 
 #
