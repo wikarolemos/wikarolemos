@@ -2,10 +2,10 @@
 
 ### Sobre mim:
 
-- 😀 Meu nome é Wikaro Lemos e tenho 19 anos
+- 😊 Meu nome é Wikaro Lemos e tenho 20 anos
 - ✍️ Cursando Análise e Desenvolvimento de Sistemas pela FATEC Sorocaba
-- 📖 Estudando front-end e back-end
-- 🌐 Apaixonado por tecnologia
+- 📖 Estudando Python e Data Science
+- 🌐 Entusiasta apaixonado por tecnologia
 
 ---
 
@@ -20,12 +20,4 @@
   <a href="https://www.youtube.com/channel/UCAlZ2pVsExrzxsL9iF4eyYQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/wikaro.lemos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:wikaro.lemos@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-</div>
-
----
-
-<div align="center">
-
-  ![Snake animation](https://github.com/wikarolemos/wikarolemos/blob/output/github-contribution-grid-snake.svg)
-
 </div>
