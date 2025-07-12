@@ -1,21 +1,46 @@
-# Olá! Seja bem-vindo(a) 👋
+# 👋 Olá! Eu sou o Wikaro Lemos
 
-### Sobre mim:
-
-- 😊 Meu nome é Wikaro Lemos e tenho 20 anos
-- ✍️ Cursando Análise e Desenvolvimento de Sistemas pela FATEC Sorocaba
-- 📖 Estudando Python e Data Science
-- 🌐 Entusiasta apaixonado por tecnologia
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Engenheiro+de+Dados;Garantindo+Dados+Confíaveis" alt="Typing SVG" />
+</div>
 
 ---
 
- <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wikarolemos&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="ALexandre Silva github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wikarolemos&layout=compact&hide_border=true&title_color=58a6ff&text_color=58a6ff&bg_color=0d1117" />
+## 👨‍💻 Sobre mim
+
+🎓 Análise e Desenvolvimento de Sistemas - FATEC Sorocaba  
+⚙️ Focado em dados e soluções escaláveis  
+
+---
+
+## 🛠️ Stack Principal
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
+</div>
+
+---
+
+## 📫 Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/wikaro-lemos-3654b3276/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <a href="mailto:wikaro.lemos@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <i>"Dados são o combustível da inovação"</i>
 </div>
